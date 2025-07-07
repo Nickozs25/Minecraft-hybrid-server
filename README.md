@@ -11,7 +11,7 @@ Este proyecto permite implementar un servidor de Minecraft híbrido: comienza lo
 - Diagrama de arquitectura incluido.
 - Compatible con GitHub Actions para automatización futura.
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - Docker
 - Terraform
@@ -19,7 +19,7 @@ Este proyecto permite implementar un servidor de Minecraft híbrido: comienza lo
 - Python (psutil)
 - GitHub para control de versiones
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 minecraft-hybrid-server/
 ├── README.md
@@ -35,14 +35,14 @@ minecraft-hybrid-server/
 
 
 
-## 🧩 Requisitos previos
+##  Requisitos previos
 
 - Cuenta en AWS con acceso a capa gratuita.
 - Llave SSH configurada (`~/.ssh/id_rsa.pub`).
 - Terraform instalado (`>= 1.0`).
 - Docker instalado localmente.
 
-## ⚙️ Uso
+##  Uso
 
 1. Clona este repositorio:
    ```bash
