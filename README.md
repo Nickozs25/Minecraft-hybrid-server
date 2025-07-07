@@ -64,3 +64,5 @@ minecraft-hybrid-server/
   4 Obtén la IP pública de la instancia EC2:
 
      terraform output instance_public_ip 
+
+     By: Nicolás Izquierdo
